@@ -6,7 +6,7 @@
 🌱 I’m currently contributing to GirlScript Summer of Code 2023 <br>
 📝Sometimes I write blog on [Medium](https://medium.com/@shinei27shukla), if you like them don't forget to hit the applaud <br>
 😄 Pronouns: She/ Her <br>
-⚡ Fun fact: My name is an anagram of "I shine"
+⚡ Fun fact: My name is an anagram of "I shine"<br>
 📚 Concise notes and Clear roadmaps: [Gumroad](https://shineishukla.gumroad.com/)
 <br>
 <br/>
