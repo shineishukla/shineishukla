@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?shineishuklae=your-github-shineishukla&color=green)
+
 ### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <br>
 <img align="right" alt="develper girl" width= "270px" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
@@ -17,7 +19,7 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ShineiShukla)   &nbsp;
 
 
- #### 👩🏻‍💻 Languages and Tools <br>
+ #### 👩🏻‍💻 Tech Stack <br>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
