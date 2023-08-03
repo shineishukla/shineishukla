@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?shineishuklae=your-github-shineishukla&color=green)
 
 ### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <br>
