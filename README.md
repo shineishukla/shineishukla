@@ -4,7 +4,6 @@
 <img align="right" alt="develper girl" width= "270px" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 👩‍🎓 I'm an undergrad student pursuing Bachelor of Computer Applications <br>
-🌱 I’m currently contributing to GirlScript Summer of Code 2023 <br>
 📝Sometimes I write blog on [Medium](https://medium.com/@shinei27shukla), if you like them don't forget to hit the applaud <br>
 😄 Pronouns: She/ Her <br>
 ⚡ Fun fact: My name is an anagram of "I shine"<br>
