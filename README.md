@@ -32,8 +32,6 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
  <br/>
  <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shineishukla&show_icons=true&locale=en" alt="shineishukla" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shineishukla&theme=dark" alt="shineishukla" /></p>
 
 
