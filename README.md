@@ -16,7 +16,7 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ShineiShukla)   &nbsp;
 
 
- #### 👩🏻‍💻 Tech Stack <br>
+ #### 👩🏻‍💻Languages & Tools <br>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -28,17 +28,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-<!--
-**shineishukla/shineishukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+ <br/>
+ <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shineishukla&show_icons=true&locale=en" alt="shineishukla" /></p>
 
-Here are some ideas to get you started:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shineishukla&theme=dark" alt="shineishukla" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
