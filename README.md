@@ -14,7 +14,6 @@
 <a href="https://instagram.com/designwithshinei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="designwithshinei" height="30" width="40" /></a>
 <a href="https://www.behance.net/ishineishukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ishineishukla" height="30" width="40" /></a>
 <a href="https://medium.com/@shinei27shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shinei27shukla" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shineishukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shineishukla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
